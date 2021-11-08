@@ -1,4 +1,5 @@
 ### 你好！Hi there, I'm Joy 👋
+<p>I am a creative and highly motivated full-stack software developer, looking for opportunities to solve meaningful problems with code.</p>
 
 ##
 
