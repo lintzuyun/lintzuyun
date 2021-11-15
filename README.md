@@ -1,5 +1,8 @@
 ### 你好！Hi there, I'm Joy 👋
+
 <p>I am a highly motivated and creative full-stack software developer, looking for opportunities to solve meaningful problems with code.</p>
+
+<p>As a recent graduate of the School of Code, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration. 👩🏻‍💻</p>
 
 ##
 
