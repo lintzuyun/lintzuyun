@@ -18,3 +18,5 @@
 <div align="center">
    <img src="https://raw.githubusercontent.com/lintzuyun/lintzuyun/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </div>
+<br/>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=lintzuyun&left_color=#006666&right_color=#ffad33)
