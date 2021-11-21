@@ -19,4 +19,4 @@
    <img src="https://raw.githubusercontent.com/lintzuyun/lintzuyun/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </div>
 <br/>
- <div align = "center">![](https://komarev.com/ghpvc/?username=lintzuyun&color=pink)</div>
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=lintzuyun&color=red&label=Profile Views " /></p>
