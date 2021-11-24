@@ -1,6 +1,7 @@
-<p align=“right”><img align=“right” src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " />
+<div align = 'right'>
 <a href="https://www.linkedin.com/in/tzuyunlin/" target="blank"><img align=“right” src="https://img.icons8.com/color/48/000000/linkedin.png" alt=“joylin” width="23px" /></a>
-<a href="https://instagram.com/msjoyillustration" target="blank"><img align=“right” src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=“joylin” width="23px" /></a></p>
+<a href="https://instagram.com/msjoyillustration" target="blank"><img align=“right” src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=“joylin” width="23px" /></a>
+<img align=“right” src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " /></div>
 
 
 ### 你好！Hi there, I'm Joy 👋
