@@ -2,7 +2,7 @@
 
 <p>I am a passionate and creative software developer, looking for opportunities to solve meaningful problems with code ✨</p>
 
-<p>As a recent graduate of the <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration. 👩🏻‍💻</p>
+<p>As a recent graduate of the <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration 👩🏻‍💻</p>
 <br/>
 
 Fun facts about me 
