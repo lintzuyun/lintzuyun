@@ -3,6 +3,13 @@
 <p>I am a passionate and creative software developer, looking for opportunities to solve meaningful problems with code ✨</p>
 
 <p>As a recent graduate of the <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration. 👩🏻‍💻</p>
+<br/>
+
+Fun facts about me 
+- I lived and studied in Hawaii for a year 🏝
+- I am a self taught illustrator, I take orders for custom illustrations online and have received 500+ positive reviews 👩🏻‍🎨 
+- I collaborated and designed T-shirts for Japanese brand BEAMS 🇯🇵
+- My most recent trip was a one month exploration of Japan, starting from Osaka and finishing at Hokkaido 🚆
 
 ##
 
