@@ -1,3 +1,8 @@
+<p align=“right”><img align=“right” src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " />
+<a href="https://www.linkedin.com/in/tzuyunlin/" target="blank"><img align=“right” src="https://img.icons8.com/color/48/000000/linkedin.png" alt=“joylin” width="23px" /></a>
+<a href="https://instagram.com/msjoyillustration" target="blank"><img align=“right” src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=“joylin” width="23px" /></a></p>
+
+
 ### 你好！Hi there, I'm Joy 👋
 
 <p>I am a passionate and creative software developer, looking for opportunities to solve meaningful problems with code ✨</p>
@@ -26,4 +31,3 @@ Fun facts about me
    <img src="https://raw.githubusercontent.com/lintzuyun/lintzuyun/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </div>
 <br/>
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " /></p>
