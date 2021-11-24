@@ -9,7 +9,7 @@ Fun facts about me
 - I lived and studied in Hawaii for a year 🏝
 - I am a self taught illustrator, I take orders for custom illustrations online and have received 500+ positive reviews 👩🏻‍🎨 
 - I collaborated and designed T-shirts for Japanese brand BEAMS 🇯🇵
-- My most recent trip was a one month exploration of Japan, starting from Osaka and finishing at Hokkaido 🚆
+- My most recent trip was a one month exploration of Japan, starting from Osaka and finishing at Hokkaido 🗻
 
 ##
 
