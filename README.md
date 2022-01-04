@@ -1,12 +1,12 @@
 <div align = 'right'>
 <a href="https://www.linkedin.com/in/tzuyunlin/" target="blank"><img align=“right” src="https://img.icons8.com/color/48/000000/linkedin.png" alt=“joylin” width="23px" /></a>
-<a href="https://instagram.com/msjoyillustration" target="blank"><img align=“right” src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=“joylin” width="23px" /></a>
+<!-- <a href="https://instagram.com/msjoyillustration" target="blank"><img align=“right” src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=“joylin” width="23px" /></a>-->
 <img align=“right” src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " /></div>
 
 
 ### 你好！Hi there, I'm Joy 👋
 
-<p>I am a passionate and creative software developer, looking for opportunities to solve meaningful problems with code ✨</p>
+<p>I am a passionate and creative software developer currently based in Birmingham✨</p>
 
 <p>As a recent graduate of the <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration 👩🏻‍💻</p>
 <br/>
