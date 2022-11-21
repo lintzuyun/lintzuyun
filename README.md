@@ -6,12 +6,9 @@
 
 ### 你好！Hi there, I'm Joy
 
-<p>I am a junior software engineer currently based in Birmingham 👩🏻‍💻</p>
+</p>I'm a highly motivated and creative software engineer with hands-on experience in a fast-growing technology firm. I transitioned from a marketing professional to software developer in 2021 when I joined the School of Code bootcamp. Coding has allowed me to utilise my creativity, logical thinking and team working skills to solve meaningful problems. I am looking for a fresh challenge with scope to grow and develop my skills. 👩🏻‍💻✨</p>
 
-<!--<p>As a recent graduate of the <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, the intensive 16-week coding bootcamp taught me how to work in a high-performance Agile tech team to create and deploy software. The course covered full-stack JavaScript technologies, Agile project management, pair programming and remote team collaboration 👩🏻‍💻</p>
-<br/>
-
-test
+<!--
 
 Fun facts about me
 - I lived and studied in Hawaii for a year 🏝
@@ -30,9 +27,10 @@ Fun facts about me
 -->
 
 <!-- <a href="https://slack.com/intl/en-gb/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/slack.png" alt="slack" title="slack" width="40" height="40"/><a href="https://zoom.us/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/zoom.png" alt="zoom" title="zoom" width="40" height="40"/><a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/npm.png" alt="npm" title="npm" width="40" height="40"/>
-<hr>
+<hr> -->
+
 <div align="center">
    <img src="https://raw.githubusercontent.com/lintzuyun/lintzuyun/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </div>
 <br/>
--->
+
