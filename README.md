@@ -4,9 +4,15 @@
 <img align=“right” src="https://komarev.com/ghpvc/?username=lintzuyun&color=orange&label=Profile Views " /></div>
  -->
 
-### 你好！Hi there, I'm Joy
+#### 你好！Hi there, I'm Joy 👩🏻‍💻✨
+
+
+
+<!--
 
 </p>I'm a highly motivated and creative software engineer with hands-on experience in a fast-growing technology firm. I transitioned from a marketing professional to software developer in 2021 when I joined the School of Code bootcamp. Coding has allowed me to utilise my creativity, logical thinking and team working skills to solve meaningful problems. I am looking for a fresh challenge with scope to grow and develop my skills. 👩🏻‍💻✨</p>
+
+-->
 
 <!--
 
@@ -29,8 +35,11 @@ Fun facts about me
 <!-- <a href="https://slack.com/intl/en-gb/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/slack.png" alt="slack" title="slack" width="40" height="40"/><a href="https://zoom.us/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/zoom.png" alt="zoom" title="zoom" width="40" height="40"/><a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/npm.png" alt="npm" title="npm" width="40" height="40"/>
 <hr> -->
 
+<!--
+
 <div align="center">
    <img src="https://raw.githubusercontent.com/lintzuyun/lintzuyun/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </div>
 <br/>
 
+-->
